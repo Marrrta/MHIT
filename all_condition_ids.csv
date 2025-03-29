@@ -1,0 +1,53 @@
+condition,cid
+"Anxiety Disorder (Generalized, Social, Phobia, etc)",C1
+"Mood Disorder (Depression, Bipolar Disorder, etc)",C2
+Stress Response Syndromes,C3
+Substance Use Disorder,C4
+Obsessive-Compulsive Disorder,C5
+"Eating Disorder (Anorexia, Bulimia, etc)",C6
+"Personality Disorder (Borderline, Antisocial, Paranoid, etc)",C7
+Attention Deficit Hyperactivity Disorder,C8
+Addictive Disorder,C9
+Post-traumatic Stress Disorder,C10
+Pervasive Developmental Disorder (Not Otherwise Specified),C11
+Seasonal Affective Disorder,C12
+Burn out,C13
+PDD-NOS,C14
+Dissociative Disorder,C15
+Depression,C16
+Autism (Asperger's),C17
+Traumatic Brain Injury,C18
+Gender Dysphoria,C19
+Asperges,C20
+PTSD (undiagnosed),C21
+"Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",C22
+Autism,C23
+Sexual addiction,C24
+"Combination of physical impairment (strongly near-sighted) with a possibly mental one (MCD / ""ADHD"", though its actually a stimulus filtering impairment)",C25
+Sleeping Disorder,C26
+"I haven't been formally diagnosed, so I felt uncomfortable answering, but Social Anxiety and Depression.",C27
+Autism Spectrum Disorder,C28
+Transgender,C29
+Intimate Disorder,C30
+ADD (w/o Hyperactivity),C31
+Schizotypal Personality Disorder,C32
+Autism spectrum disorder,C33
+Suicidal Ideation,C34
+"We're all hurt, right?!",C35
+Burnout,C36
+Gender Identity Disorder,C37
+Tinnitus,C38
+Depersonalisation,C39
+post-partum / anxiety,C40
+Asperger Syndrome,C41
+Asperger's,C42
+depersonalization disorder,C43
+PDD-NOS (see above),C44
+"Autism - while not a ""mental illness"", still greatly affects how I handle anxiety",C45
+Attention Deficit Disorder,C46
+"MCD (when it was diagnosed, the ultra-mega ""disorder"" ADHD didn't exist yet)",C47
+posttraumatic stress disourder,C48
+attention deficit disorder (but not the hyperactive version),C49
+Aspergers,C50
+autism spectrum disorder,C51
+identifier,rid
