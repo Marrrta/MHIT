@@ -1,6 +1,6 @@
 # MHIT
 Analysis of Mental Health in Tech survey
 
-The `mhit` project is composed of x notebooks:<br>**A. Data transformations**<br> 
+The `mhit` project is composed of 4 notebooks:<br>**A. Data transformations**<br> 
 Because the data is unwieldy in its original form, before it was used for analysis and insights, I transformed it as follows:<br> 1. Created a unique id for each survey respondent (`rid`) and mapped all responses to this id;<br>2. Mapped all survey questions to their unique identifiers (`Q1`-`Q63`) and used the question identifiers as compact column headers.<br>3. Structured responses referencing conditions by first mapping all conditions to their own unique identifier (`C1` - `C51`) and then mapping each respondent to all of the conditions they listed as one they either currently have or one they have been diagnosed with.<br>4. Similarly, mapped all job positions to unique identifiers (`P1`-`P15`) and all respondents to each position they listed as part of their current responsibilities.<br>5. Finally, the responses are captured as text and while most represent ordinal or quantifiable information, further analysis required mapping of the text to numeric values *(e.g. "Yes" = 1 / "No" = 0 or "Yes, all" = 1, "Some of them" = 0.5, "No, none" = 0)*<br>
-**B. EDA and additional data cleaning**<br>**C. Analysis and hypothesis testing**<br>**D. NLP and Sentiment Analysis**<br><br>**E. Next steps**<br>
+**B. EDA and additional data cleaning**<br>**C. Analysis and hypothesis testing**<br>**D. NLP and Sentiment Analysis**<br>
