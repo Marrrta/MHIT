@@ -8,7 +8,11 @@ The data represents responses entered by participants in a survey. This step is 
 **C. Analysis and hypothesis testing**<br>
 The analysis includes:<br> - an exploration of differences and similarities between different groups of respondents (e.g. tech vs non-tech employees, employees affected by mental health conditions and those not affected, etc.) and a statistical validation of observed differences, <br> - an evaluation of trends informed by movements of employees from companies with unfavorable attitudes towards mental health conditions to mental health allies, <br> - an overview of the illnesses with greatest stated impact on work functions, <br> - dependencies between the presence of a condition/diagnosis and family history of mental health issues.
 ![Image](https://github.com/Marrrta/MHIT/blob/main/images/mh_no.png)
-![Image](https://github.com/Marrrta/MHIT/blob/main/images/wown.png)
+![Image](https://github.com/Marrrta/MHIT/blob/main/images/impact_mh.png)
+![Image](https://github.com/Marrrta/MHIT/blob/main/images/policy_vs_trt.png)
+![Image](https://github.com/Marrrta/MHIT/blob/main/images/prev_vs_curr.png)
+![Image](https://github.com/Marrrta/MHIT/blob/main/images/ph_vs_m_cons.png)
+![Image](https://github.com/Marrrta/MHIT/blob/main/images/mh_corr_fh.png)
 **D. NLP and Sentiment Analysis**<br>
 This notebook focuses on free-form responses to the questions: `Would you be willing to bring up a physical health issue with a potential employer in an interview - why or why not?` and `Would you bring up a mental health issue with a potential employer in an interview - why or why not?`. By utilizing word count representations and topic modeling, I compared responses to the two questions, with focus on reasons for declining to comment on the health issues in question. Finally, I performed sentiment analysis to confirm that in case of both mental and physical health, more positive responses tend to coincide with a higher likelihood to be transparent regarding the respondents' health to the interviewer. 
 ![Image](https://github.com/Marrrta/MHIT/blob/main/images/mh_no.png)
